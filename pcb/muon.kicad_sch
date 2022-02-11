@@ -2483,7 +2483,7 @@
     (uuid 80001a61-1fa4-4527-9790-681f063e52bc)
     (property "Reference" "SW2" (id 0) (at 193.04 101.6 0))
     (property "Value" "SW_SPST" (id 1) (at 200.66 87.63 0))
-    (property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB" (id 2) (at 193.04 97.79 0)
+    (property "Footprint" "Keyswitch:SW_Hotswap_Kailh_MX_1.25u" (id 2) (at 193.04 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 193.04 97.79 0)
@@ -2583,7 +2583,7 @@
     (uuid a27ad806-2f49-493b-a712-5cefb34fea4e)
     (property "Reference" "SW1" (id 0) (at 193.04 90.17 0))
     (property "Value" "SW_SPST" (id 1) (at 200.66 87.63 0))
-    (property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB" (id 2) (at 193.04 93.98 0)
+    (property "Footprint" "Keyswitch:SW_Hotswap_Kailh_MX_1.25u" (id 2) (at 193.04 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 193.04 93.98 0)
@@ -2890,10 +2890,10 @@
       (reference "R4") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/a27ad806-2f49-493b-a712-5cefb34fea4e"
-      (reference "SW1") (unit 1) (value "SW_SPST") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
+      (reference "SW1") (unit 1) (value "SW_SPST") (footprint "Keyswitch:SW_Hotswap_Kailh_MX_1.25u")
     )
     (path "/80001a61-1fa4-4527-9790-681f063e52bc"
-      (reference "SW2") (unit 1) (value "SW_SPST") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
+      (reference "SW2") (unit 1) (value "SW_SPST") (footprint "Keyswitch:SW_Hotswap_Kailh_MX_1.25u")
     )
     (path "/d0bfe201-daa4-4d35-9ccd-fa6a79ba80ae"
       (reference "U1") (unit 1) (value "ATSAMD11C14A-SS") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")

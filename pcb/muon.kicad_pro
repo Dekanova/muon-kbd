@@ -11,7 +11,7 @@
         "copper_text_upright": false,
         "courtyard_line_width": 0.049999999999999996,
         "dimension_precision": 4,
-        "dimension_units": 2,
+        "dimension_units": 3,
         "dimensions": {
           "arrow_length": 1270000,
           "extension_offset": 500000,
@@ -356,7 +356,7 @@
         "clearance": 0.15,
         "diff_pair_gap": 0.1,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.15,
+        "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
