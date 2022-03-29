@@ -2289,7 +2289,7 @@
     (property "Value" "1k" (id 1) (at 140.97 123.1899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 138.43 121.92 0)
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 138.43 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 138.43 121.92 0)
@@ -2376,7 +2376,7 @@
     (property "Value" "1uF" (id 1) (at 83.82 123.19 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 91.44 123.19 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 91.44 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 91.44 123.19 0)
@@ -2546,11 +2546,11 @@
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf" (id 3) (at 96.52 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "5" (uuid bd7f487e-9037-434a-b292-809a5f56bf1b))
-    (pin "3" (uuid 284bc14c-c243-4701-a865-3c23f9617f5d))
-    (pin "2" (uuid e84bc412-14e9-485a-bcca-f313ae591965))
-    (pin "4" (uuid 9a65d3ec-156d-4eb0-85fd-0f4f0f695610))
     (pin "1" (uuid 1ad5ee4c-8200-4562-89a9-56cc2291d4a3))
+    (pin "2" (uuid e84bc412-14e9-485a-bcca-f313ae591965))
+    (pin "3" (uuid 284bc14c-c243-4701-a865-3c23f9617f5d))
+    (pin "4" (uuid 9a65d3ec-156d-4eb0-85fd-0f4f0f695610))
+    (pin "5" (uuid bd7f487e-9037-434a-b292-809a5f56bf1b))
   )
 
   (symbol (lib_id "power:GND") (at 217.17 69.85 90) (unit 1)
@@ -2791,7 +2791,7 @@
       (reference "#PWR0121") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/593693bf-d6ae-4659-9e8b-ba22a0b5099d"
-      (reference "C2") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C2") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/5582bf4e-99d4-4aaa-a0e4-5bbf4d0ed531"
       (reference "C3") (unit 1) (value "4.7uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -2821,7 +2821,7 @@
       (reference "J2") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_JAE_DX07S016JA1R1500")
     )
     (path "/3afd2b2b-afb2-4823-a268-5ef1008a65c2"
-      (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/3a8cb071-4bda-4fc9-8c8b-585e54604573"
       (reference "R3") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0402_1005Metric")
