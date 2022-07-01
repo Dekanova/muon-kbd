@@ -3,4 +3,5 @@
   (lib (name "MIC55")(type "KiCad")(uri "${KIPRJMOD}/lib/MIC5528-3.3YMT-TR")(options "")(descr ""))
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/lib/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
   (lib (name "rp2040")(type "KiCad")(uri "${KIPRJMOD}/lib/rp2040")(options "")(descr ""))
+  (lib (name "qorvo")(type "KiCad")(uri "${KIPRJMOD}/lib/DW3000")(options "")(descr ""))
 )
