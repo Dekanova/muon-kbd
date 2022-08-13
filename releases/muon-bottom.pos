@@ -1,0 +1,12 @@
+### Module positions - created on Sat 23 Jul 2022 11:22:06 PM PDT ###
+### Printed by Pcbnew version 6.0.6+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                            PosX       PosY       Rot  Side
+SW1       Kaliah_Hotswap  SW_Hotswap_Kailh_MX_1.00u     -135.0000   -81.7500    0.0000  bottom
+SW2       Kaliah_Hotswap  SW_Hotswap_Kailh_MX_1.00u     -154.0000   -81.7500    0.0000  bottom
+SW4       DTSM-66R-V-T/R  SW_Push_1P1T_NO_6x6mm_H9.5mm  -139.2500  -101.0000  180.0000  bottom
+SW5       DTSM-66R-V-T/R  SW_Push_1P1T_NO_6x6mm_H9.5mm  -154.5000  -101.0000  180.0000  bottom
+SW6       DTSM-66R-V-T/R  SW_Push_1P1T_NO_6x6mm_H9.5mm  -168.5000  -101.0000  180.0000  bottom
+SW7       Kaliah_Hotswap  SW_Hotswap_Kailh_MX_1.00u     -173.0500   -81.7500    0.0000  bottom
+## End
