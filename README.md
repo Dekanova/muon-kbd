@@ -1,10 +1,22 @@
+# A smol and simple osu keypad
+
 This is the Muon PCB (currently in development).
 
-A smol and simple osu keypad
+## Details
+Firmware for this board can be found here https://github.com/Dekanova/muon-firmware.
+ROM flash is pretty big and should be able to fit whatever you want on it.
 
-Firmware for this board can be found here https://github.com/Dekanova/muon-firmware
+Feel free to make a PR if you get other firmware working on this board!
+
+- RP2040 (easy firmware changes)
+- hybrid MX/low profile choc hotswap socket
+- rgb keyglow & underglow
+- usb-c
+
 
 ## Usage
+TODO: once hybrid keyswitch gen is merged, move from local reference
+
 - Kicad 6.0
 - openinput library from kicad content&lib manager
 
@@ -14,6 +26,7 @@ Firmware for this board can be found here https://github.com/Dekanova/muon-firmw
 ![back](media/v0-4/back.jpg?raw=true "Back")
 
 A huge thanks to openinput for their generic [KiCad lib](https://github.com/openinput-fw/openinput-kicad-library).
-TODO: once hybrid keyswitch gen is merged, move from local reference
 
 Also thanks to [marbastlib](https://github.com/ebastler/marbastlib) for their component lib.
+
+This project is licenced under [CERN Open Hardware Licence v2 - Strongly Reciprocal](LICENCE)
