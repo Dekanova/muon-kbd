@@ -29,4 +29,4 @@ A huge thanks to openinput for their generic [KiCad lib](https://github.com/open
 
 Also thanks to [marbastlib](https://github.com/ebastler/marbastlib) for their component lib.
 
-This project is licenced under [CERN Open Hardware Licence v2 - Strongly Reciprocal](LICENCE)
+This project is licenced under [CERN Open Hardware Licence v2 - Strongly Reciprocal](LICENCE) see [usage guide](LICENCE_USER_GUIDE) for more info
