@@ -4337,7 +4337,7 @@
     (uuid 881fa7cb-bfeb-4b04-92ad-9614e3d4e1df)
     (property "Reference" "SW7" (id 0) (at 205.74 85.09 0))
     (property "Value" "Kailh Hotswap" (id 1) (at 220.98 73.66 0))
-    (property "Footprint" "Keyswitch:SW_Hotswap_Kailh_MX_1.00u" (id 2) (at 210.82 82.55 0)
+    (property "Footprint" "local-hybrid:SW_Hotswap_Hybrid_1.00u" (id 2) (at 210.82 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 82.55 0)
@@ -4588,7 +4588,7 @@
     (uuid b16ffb25-b666-4ad7-810c-9718043c8c31)
     (property "Reference" "SW2" (id 0) (at 205.74 81.28 0))
     (property "Value" "Kailh Hotswap" (id 1) (at 220.98 73.66 0))
-    (property "Footprint" "Keyswitch:SW_Hotswap_Kailh_MX_1.00u" (id 2) (at 210.82 78.74 0)
+    (property "Footprint" "local-hybrid:SW_Hotswap_Hybrid_1.00u" (id 2) (at 210.82 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 78.74 0)
@@ -4884,7 +4884,7 @@
     (uuid e28f19a7-3a6b-4f2f-a696-440e65890057)
     (property "Reference" "SW1" (id 0) (at 205.74 77.47 0))
     (property "Value" "Kailh Hotswap" (id 1) (at 220.98 73.66 0))
-    (property "Footprint" "Keyswitch:SW_Hotswap_Kailh_MX_1.00u" (id 2) (at 210.82 74.93 0)
+    (property "Footprint" "local-hybrid:SW_Hotswap_Hybrid_1.00u" (id 2) (at 210.82 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 74.93 0)
@@ -5355,10 +5355,10 @@
       (reference "R10") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/e28f19a7-3a6b-4f2f-a696-440e65890057"
-      (reference "SW1") (unit 1) (value "Kailh Hotswap") (footprint "Keyswitch:SW_Hotswap_Kailh_MX_1.00u")
+      (reference "SW1") (unit 1) (value "Kailh Hotswap") (footprint "local-hybrid:SW_Hotswap_Hybrid_1.00u")
     )
     (path "/b16ffb25-b666-4ad7-810c-9718043c8c31"
-      (reference "SW2") (unit 1) (value "Kailh Hotswap") (footprint "Keyswitch:SW_Hotswap_Kailh_MX_1.00u")
+      (reference "SW2") (unit 1) (value "Kailh Hotswap") (footprint "local-hybrid:SW_Hotswap_Hybrid_1.00u")
     )
     (path "/345bff2e-14b2-4e71-b596-e413e96ff762"
       (reference "SW3") (unit 1) (value "Reset") (footprint "Button_Switch_SMD:SW_SPST_PTS810")
@@ -5373,7 +5373,7 @@
       (reference "SW6") (unit 1) (value "DTSM-66R-V-T/R") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
     )
     (path "/881fa7cb-bfeb-4b04-92ad-9614e3d4e1df"
-      (reference "SW7") (unit 1) (value "Kailh Hotswap") (footprint "Keyswitch:SW_Hotswap_Kailh_MX_1.00u")
+      (reference "SW7") (unit 1) (value "Kailh Hotswap") (footprint "local-hybrid:SW_Hotswap_Hybrid_1.00u")
     )
     (path "/0a75f060-9ad0-4ebe-ae07-34bbdb9c610f"
       (reference "U1") (unit 1) (value "SRV05-4") (footprint "marbastlib-various:SOT-23-6-routable")
