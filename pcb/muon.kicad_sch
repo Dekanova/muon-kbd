@@ -3346,7 +3346,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 737d80c5-1af8-45ab-aa76-30565cae9b61)
   )
-  (label "D+" (at 44.45 83.82 180)
+  (label "D-" (at 44.45 83.82 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 77c3bbfe-e280-468a-bc19-d0a64a76046c)
   )
@@ -3358,7 +3358,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7c29d288-8fce-4c84-b632-d0273027f7a5)
   )
-  (label "D-" (at 44.45 88.9 180)
+  (label "D+" (at 44.45 88.9 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 7e67823e-2810-490d-bd9b-8b337d7a4ad5)
   )
@@ -3920,7 +3920,7 @@
   (symbol (lib_id "Device:R") (at 46.99 29.21 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3a8cb071-4bda-4fc9-8c8b-585e54604573)
-    (property "Reference" "R3" (id 0) (at 46.99 29.3074 90))
+    (property "Reference" "R4" (id 0) (at 46.99 29.3074 90))
     (property "Value" "5.1k" (id 1) (at 46.99 26.67 90))
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 46.99 27.432 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -5199,7 +5199,7 @@
   (symbol (lib_id "Device:R") (at 46.99 31.75 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid fb6df40b-a201-4cf2-bb16-75569bcefcca)
-    (property "Reference" "R4" (id 0) (at 46.99 31.8474 90))
+    (property "Reference" "R3" (id 0) (at 46.99 31.8474 90))
     (property "Value" "5.1k" (id 1) (at 46.99 26.67 90))
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 46.99 29.972 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -5447,10 +5447,10 @@
     (path "/6979ffd1-2215-4d6f-8fe1-8ac2cb730830"
       (reference "R2") (unit 1) (value "220") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
-    (path "/3a8cb071-4bda-4fc9-8c8b-585e54604573"
+    (path "/fb6df40b-a201-4cf2-bb16-75569bcefcca"
       (reference "R3") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
-    (path "/fb6df40b-a201-4cf2-bb16-75569bcefcca"
+    (path "/3a8cb071-4bda-4fc9-8c8b-585e54604573"
       (reference "R4") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/7c3ecc2d-b587-4bf1-b70c-9be0bb793b33"
