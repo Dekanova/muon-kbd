@@ -1,4 +1,18 @@
-20600166522959719
+20525246638452716
+Audio_Module
+Reverb_BTDR-1H
+Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
+audio belton reverb
+0
+7
+7
+Audio_Module
+Reverb_BTDR-1V
+Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
+audio belton reverb
+0
+7
+7
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -6524,6 +6538,13 @@ TRS audio jack stereo horizontal circular
 5
 5
 Connector_Audio
+Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal
+3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cuidevices.com/product/resource/sj2-359x-smt.pdf)
+3.5mm audio cui horizontal jack stereo
+0
+5
+5
+Connector_Audio
 Jack_3.5mm_Ledino_KB3SPRS_Horizontal
 https://www.reichelt.de/index.html?ACTION=7&LA=3&OPEN=0&INDEX=0&FILENAME=C160%252FKB3SPRS.pdf
 jack stereo TRS
@@ -7428,7 +7449,7 @@ neutrik xlr aa
 4
 Connector_Audio
 Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal
-A Series, Chassis connector H female (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mafh-ph
+A Series, Chassis connector H female (A series layout), mates with Phoenix MSTB2,5/3-ST, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mafh-ph
 neutrik xlr a
 0
 3
@@ -7463,7 +7484,7 @@ neutrik xlr a
 4
 Connector_Audio
 Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal
-A Series, Chassis connector Phoenix H male (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mamh-ph
+A Series, Chassis connector Phoenix H male (A series layout), mates with Phoenix MSTB 2,5/3-ST, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mamh-ph
 neutrik xlr a
 0
 3
@@ -8049,6 +8070,13 @@ Micro SD
 0
 14
 11
+Connector_Card
+microSD_HC_Molex_47219-2001
+1.10mm Pitch microSD Card Connector, Hinge Type, https://www.molex.com/pdm_docs/sd/472192001_sd.pdf
+Micro SD
+0
+12
+9
 Connector_Card
 microSD_HC_Molex_104031-0811
 1.10mm Pitch microSD Memory Card Connector, Surface Mount, Push-Pull Type, 1.42mm Height, with Detect Switch (https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf)
@@ -10933,6 +10961,237 @@ hdmi micro type d right angle tht smd hybrid
 0
 23
 20
+Connector_Harting
+Harting_har-flexicon_14110213001xxx_1x02-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110213001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+4
+3
+Connector_Harting
+Harting_har-flexicon_14110213002xxx_1x02-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110213002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+4
+3
+Connector_Harting
+Harting_har-flexicon_14110213010xxx_1x02-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110213010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+4
+3
+Connector_Harting
+Harting_har-flexicon_14110313001xxx_1x03-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110313001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+5
+4
+Connector_Harting
+Harting_har-flexicon_14110313002xxx_1x03-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110313002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+5
+4
+Connector_Harting
+Harting_har-flexicon_14110313010xxx_1x03-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110313010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+5
+4
+Connector_Harting
+Harting_har-flexicon_14110413001xxx_1x04-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110413001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+6
+5
+Connector_Harting
+Harting_har-flexicon_14110413002xxx_1x04-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110413002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+6
+5
+Connector_Harting
+Harting_har-flexicon_14110413010xxx_1x04-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110413010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+6
+5
+Connector_Harting
+Harting_har-flexicon_14110513001xxx_1x05-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110513001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+7
+6
+Connector_Harting
+Harting_har-flexicon_14110513002xxx_1x05-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110513002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+7
+6
+Connector_Harting
+Harting_har-flexicon_14110513010xxx_1x05-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110513010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+7
+6
+Connector_Harting
+Harting_har-flexicon_14110613001xxx_1x06-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110613001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+8
+7
+Connector_Harting
+Harting_har-flexicon_14110613002xxx_1x06-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110613002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+8
+7
+Connector_Harting
+Harting_har-flexicon_14110613010xxx_1x06-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110613010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+8
+7
+Connector_Harting
+Harting_har-flexicon_14110713001xxx_1x07-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110713001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+9
+8
+Connector_Harting
+Harting_har-flexicon_14110713002xxx_1x07-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110713002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+9
+8
+Connector_Harting
+Harting_har-flexicon_14110713010xxx_1x07-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110713010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+9
+8
+Connector_Harting
+Harting_har-flexicon_14110813001xxx_1x08-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110813001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+10
+9
+Connector_Harting
+Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110813002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+10
+9
+Connector_Harting
+Harting_har-flexicon_14110813010xxx_1x08-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110813010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+10
+9
+Connector_Harting
+Harting_har-flexicon_14110913001xxx_1x09-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14110913001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+11
+10
+Connector_Harting
+Harting_har-flexicon_14110913002xxx_1x09-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110913002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+11
+10
+Connector_Harting
+Harting_har-flexicon_14110913010xxx_1x09-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14110913010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+11
+10
+Connector_Harting
+Harting_har-flexicon_14111013001xxx_1x10-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14111013001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+12
+11
+Connector_Harting
+Harting_har-flexicon_14111013002xxx_1x10-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14111013002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+12
+11
+Connector_Harting
+Harting_har-flexicon_14111013010xxx_1x10-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14111013010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+12
+11
+Connector_Harting
+Harting_har-flexicon_14111113001xxx_1x11-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14111113001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+13
+12
+Connector_Harting
+Harting_har-flexicon_14111113002xxx_1x11-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14111113002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+13
+12
+Connector_Harting
+Harting_har-flexicon_14111113010xxx_1x11-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14111113010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+13
+12
+Connector_Harting
+Harting_har-flexicon_14111213001xxx_1x12-MP_P2.54mm_Vertical
+Harting har-flexicon series connector, 14111213001xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13001XXX_100228421DRW046C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon vertical
+0
+14
+13
+Connector_Harting
+Harting_har-flexicon_14111213002xxx_1x12-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14111213002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+14
+13
+Connector_Harting
+Harting_har-flexicon_14111213010xxx_1x12-MP_P2.54mm_Horizontal
+Harting har-flexicon series connector, 14111213010xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13010XXX_100228421DRW063C.pdf), generated with kicad-footprint-generator
+connector Harting har-flexicon horizontal
+0
+14
+13
 Connector_Harwin
 Harwin_Gecko-G125-FVX0605L0X_2x03_P1.25mm_Vertical
 Harwin Gecko Connector, 6 pins, dual row female, vertical entry, PN:G125-FVX0605L0X
@@ -48524,6 +48783,13 @@ dc-dc recom buck lga-25 pitch 2.29mm
 25
 25
 Converter_DCDC
+Converter_DCDC_Silvertel_Ag5810
+DCDC-Converter, 60W POE, Silvertel, pitch 2.54mm, package size 69.98x30x15.64mm, https://silvertel.com/images/datasheets/Ag5810-datasheet-IEEE802_3bt-Power-over-Ethernet-4-pair-PD.pdf
+DCDC-Converter Silvertel Ag5810 single output POE
+0
+163
+13
+Converter_DCDC
 Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD
 Traco TDN 5WISM Series, 5W, SMD (https://assets.tracopower.com/20200225170127/TDN5WISM/documents/tdn5wism-datasheet.pdf#page=3)
 dcdc traco 5w smd
@@ -49328,6 +49594,13 @@ SMD SMT crystal
 0
 2
 2
+Crystal
+Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm
+Abracon Miniature Ceramic Smd Crystal ABM8AIG https://abracon.com/AIGcrystals/ABM8AIG.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
 Crystal
 Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm
 Abracon Miniature Ceramic Smd Crystal ABM8G http://www.abracon.com/Resonators/ABM8G.pdf, 3.2x2.5mm^2 package
@@ -52570,6 +52843,139 @@ car blade fuse mini
 4
 2
 Fuse
+Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Lateral, Horizontal, Bel FC-203-22, https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0672-fuse-clips-series.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Eaton_1A5601-01_Inline_P20.80x6.76mm_D1.70mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Eaton 1A5601-01, https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-1axxxx-pcb-fuse-clips-atc-atm-blade-data-sheet.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Keystone_3512P_Inline_P23.62x7.27mm_D1.02x2.41x1.02x1.57mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Keystone 3512P, http://www.keyelco.com/product-pdf.cfm?p=1386
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Keystone_3512_Inline_P23.62x7.27mm_D1.02x1.57mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Keystone 3512, http://www.keyelco.com/product-pdf.cfm?p=356
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Keystone_3517_Inline_P23.11x6.76mm_D1.70mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Keystone 3517, http://www.keyelco.com/product-pdf.cfm?p=354
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Keystone_3518P_Inline_P23.11x6.76mm_D2.44x1.70mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Keystone 3518P, http://www.keyelco.com/product-pdf.cfm?p=1387
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_100_Inline_P20.50x4.60mm_D1.30mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 100, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_111_Inline_P20.00x5.00mm_D1.05mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 111, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_111_519_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_111_Lateral_P18.80x5.00mm_D1.17mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 111 (501 and 506), https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_111_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_445-030_Inline_P20.50x5.20mm_D1.30mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 445/030, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_519_Inline_P20.60x5.00mm_D1.00mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 519, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_111_519_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_520_Inline_P20.50x5.80mm_D1.30mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 520, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Littelfuse_521_Lateral_P17.00x5.00mm_D1.30mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 521, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_520_521_102071_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Schurter_CQM_Inline_P20.60x5.00mm_D1.00mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Schurter CQM (0752), https://www.schurter.com/en/datasheet/typ_CQM.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-5x20mm_Schurter_OG_Lateral_P15.00x5.00mm_D1.3mm_Horizontal
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Schurter OG, https://ch.schurter.com/en/datasheet/typ_OG__Clip__5x20.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-6.3x32mm_Littelfuse_102_122_Inline_P34.21x7.62mm_D1.98mm_Horizontal
+Fuseholder Clips, 6.3x32mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 102/122 Straight Leads, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_102_122_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-6.3x32mm_Littelfuse_102_Inline_P34.21x7.62mm_D2.54mm_Horizontal
+Fuseholder Clips, 6.3x32mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 102 Bowed Leads, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_102_122_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-6.3x32mm_Littelfuse_122_Inline_P34.21x7.62mm_D2.54mm_Horizontal
+Fuseholder Clips, 6.3x32mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 122 Bowed Leads, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_102_122_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
+Fuseholder_Clip-6.3x32mm_Littelfuse_102071_Inline_P34.70x7.60mm_D2.00mm_Horizontal
+Fuseholder Clips, 6.3x32mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 102071, https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_520_521_102071_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
+Fuse
 Fuseholder_Cylinder-5x20mm_Bulgin_FX0456_Vertical_Closed
 Fuseholder, 5x20, closed, vertical, Bulgin, FX0456, https://www.bulgin.com/products/pub/media/bulgin/data/Fuseholders.pdf
 Fuseholder 5x20 closed vertical Bulgin FX0456 Sicherungshalter 
@@ -55097,6 +55503,48 @@ Inductor Axial series Axial Horizontal pin pitch 35.56mm  length 30mm diameter 8
 2
 2
 Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x105NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x155NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x205NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x405NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455x705NL_1
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
+L_CommonMode_PulseElectronics_PH9455xxx6NL_2
+common mode, inductor, filter, https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl
+cmode choke dual
+0
+4
+4
+Inductor_THT
 L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100
 L_CommonMode_Toroid, Vertical series, Radial, pin pitch=6.35*15.24mm^2, , length*width=19.304*10.795mm^2, Bourns, 8100, http://datasheet.octopart.com/8120-RC-Bourns-datasheet-10228452.pdf
 L_CommonMode_Toroid Vertical series Radial pin pitch 6.35*15.24mm^2  length 19.304mm width 10.795mm Bourns 8100
@@ -56335,846 +56783,6 @@ solder jumper open
 0
 5
 3
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1
-Kailh keyswitch Hotswap Socket
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_1.00u
-Kailh keyswitch Hotswap Socket with 1.00u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_1.25u
-Kailh keyswitch Hotswap Socket with 1.25u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.25u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_1.25u_90deg
-Kailh keyswitch Hotswap Socket with 1.25u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.25u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_1.50u
-Kailh keyswitch Hotswap Socket with 1.50u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.50u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_1.50u_90deg
-Kailh keyswitch Hotswap Socket with 1.50u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.50u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_1.75u
-Kailh keyswitch Hotswap Socket with 1.75u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.75u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_1.75u_90deg
-Kailh keyswitch Hotswap Socket with 1.75u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.75u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_2.00u
-Kailh keyswitch Hotswap Socket with 2.00u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.00u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_2.00u_90deg
-Kailh keyswitch Hotswap Socket with 2.00u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.00u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_2.25u
-Kailh keyswitch Hotswap Socket with 2.25u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.25u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_2.25u_90deg
-Kailh keyswitch Hotswap Socket with 2.25u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.25u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_2.50u
-Kailh keyswitch Hotswap Socket with 2.50u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.50u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_2.50u_90deg
-Kailh keyswitch Hotswap Socket with 2.50u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.50u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_2.75u
-Kailh keyswitch Hotswap Socket with 2.75u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.75u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_2.75u_90deg
-Kailh keyswitch Hotswap Socket with 2.75u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.75u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_3.00u
-Kailh keyswitch Hotswap Socket with 3.00u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 3.00u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_3.00u_90deg
-Kailh keyswitch Hotswap Socket with 3.00u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 3.00u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_4.00u
-Kailh keyswitch Hotswap Socket with 4.00u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 4.00u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_4.50u
-Kailh keyswitch Hotswap Socket with 4.50u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 4.50u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_5.50u
-Kailh keyswitch Hotswap Socket with 5.50u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 5.50u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_6.00u
-Kailh keyswitch Hotswap Socket with 6.00u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 6.00u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_6.00u_Offset
-Kailh keyswitch Hotswap Socket with 6.00u Offset keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 6.00u Offset
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_6.25u
-Kailh keyswitch Hotswap Socket with 6.25u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 6.25u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_6.50u
-Kailh keyswitch Hotswap Socket with 6.50u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 6.50u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_7.00u
-Kailh keyswitch Hotswap Socket with 7.00u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 7.00u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_ISOEnter
-Kailh keyswitch Hotswap Socket with ISOEnter keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout ISOEnter
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_ISOEnter_90deg
-Kailh keyswitch Hotswap Socket with ISOEnter 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout ISOEnter 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_ISOEnter_180deg
-Kailh keyswitch Hotswap Socket with ISOEnter 180deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout ISOEnter 180deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_ISOEnter_270deg
-Kailh keyswitch Hotswap Socket with ISOEnter 270deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout ISOEnter 270deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated
-Kailh keyswitch Hotswap Socket plated holes
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_1.00u
-Kailh keyswitch Hotswap Socket plated holes with 1.00u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 1.00u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_1.25u
-Kailh keyswitch Hotswap Socket plated holes with 1.25u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 1.25u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_1.25u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 1.25u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 1.25u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_1.50u
-Kailh keyswitch Hotswap Socket plated holes with 1.50u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 1.50u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_1.50u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 1.50u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 1.50u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_1.75u
-Kailh keyswitch Hotswap Socket plated holes with 1.75u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 1.75u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_1.75u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 1.75u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 1.75u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_2.00u
-Kailh keyswitch Hotswap Socket plated holes with 2.00u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.00u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_2.00u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 2.00u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.00u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_2.25u
-Kailh keyswitch Hotswap Socket plated holes with 2.25u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.25u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_2.25u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 2.25u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.25u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_2.50u
-Kailh keyswitch Hotswap Socket plated holes with 2.50u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.50u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_2.50u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 2.50u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.50u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_2.75u
-Kailh keyswitch Hotswap Socket plated holes with 2.75u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.75u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_2.75u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 2.75u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.75u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_3.00u
-Kailh keyswitch Hotswap Socket plated holes with 3.00u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 3.00u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_3.00u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 3.00u 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 3.00u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_4.00u
-Kailh keyswitch Hotswap Socket plated holes with 4.00u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 4.00u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_4.50u
-Kailh keyswitch Hotswap Socket plated holes with 4.50u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 4.50u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_5.50u
-Kailh keyswitch Hotswap Socket plated holes with 5.50u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 5.50u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_6.00u
-Kailh keyswitch Hotswap Socket plated holes with 6.00u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 6.00u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_6.00u_Offset
-Kailh keyswitch Hotswap Socket plated holes with 6.00u Offset keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 6.00u Offset
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_6.25u
-Kailh keyswitch Hotswap Socket plated holes with 6.25u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 6.25u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_6.50u
-Kailh keyswitch Hotswap Socket plated holes with 6.50u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 6.50u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_7.00u
-Kailh keyswitch Hotswap Socket plated holes with 7.00u keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 7.00u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_ISOEnter
-Kailh keyswitch Hotswap Socket plated holes with ISOEnter keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout ISOEnter
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_ISOEnter_90deg
-Kailh keyswitch Hotswap Socket plated holes with ISOEnter 90deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout ISOEnter 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_ISOEnter_180deg
-Kailh keyswitch Hotswap Socket plated holes with ISOEnter 180deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout ISOEnter 180deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_Choc_V1_plated_ISOEnter_270deg
-Kailh keyswitch Hotswap Socket plated holes with ISOEnter 270deg keycap
-Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout ISOEnter 270deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX
-Kailh keyswitch Hotswap Socket
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_1.00u
-Kailh keyswitch Hotswap Socket with 1.00u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.00u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_1.25u
-Kailh keyswitch Hotswap Socket with 1.25u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.25u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_1.25u_90deg
-Kailh keyswitch Hotswap Socket with 1.25u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.25u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_1.50u
-Kailh keyswitch Hotswap Socket with 1.50u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.50u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_1.50u_90deg
-Kailh keyswitch Hotswap Socket with 1.50u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.50u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_1.75u
-Kailh keyswitch Hotswap Socket with 1.75u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.75u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_1.75u_90deg
-Kailh keyswitch Hotswap Socket with 1.75u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.75u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_2.00u
-Kailh keyswitch Hotswap Socket with 2.00u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.00u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_2.00u_90deg
-Kailh keyswitch Hotswap Socket with 2.00u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.00u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_2.25u
-Kailh keyswitch Hotswap Socket with 2.25u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.25u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_2.25u_90deg
-Kailh keyswitch Hotswap Socket with 2.25u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.25u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_2.50u
-Kailh keyswitch Hotswap Socket with 2.50u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.50u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_2.50u_90deg
-Kailh keyswitch Hotswap Socket with 2.50u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.50u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_2.75u
-Kailh keyswitch Hotswap Socket with 2.75u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.75u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_2.75u_90deg
-Kailh keyswitch Hotswap Socket with 2.75u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.75u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_3.00u
-Kailh keyswitch Hotswap Socket with 3.00u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 3.00u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_3.00u_90deg
-Kailh keyswitch Hotswap Socket with 3.00u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 3.00u 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_4.00u
-Kailh keyswitch Hotswap Socket with 4.00u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 4.00u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_4.50u
-Kailh keyswitch Hotswap Socket with 4.50u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 4.50u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_5.50u
-Kailh keyswitch Hotswap Socket with 5.50u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 5.50u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_6.00u
-Kailh keyswitch Hotswap Socket with 6.00u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 6.00u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_6.00u_Offset
-Kailh keyswitch Hotswap Socket with 6.00u Offset keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 6.00u Offset
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_6.25u
-Kailh keyswitch Hotswap Socket with 6.25u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 6.25u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_6.50u
-Kailh keyswitch Hotswap Socket with 6.50u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 6.50u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_7.00u
-Kailh keyswitch Hotswap Socket with 7.00u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 7.00u
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_ISOEnter
-Kailh keyswitch Hotswap Socket with ISOEnter keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout ISOEnter
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_ISOEnter_90deg
-Kailh keyswitch Hotswap Socket with ISOEnter 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout ISOEnter 90deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_ISOEnter_180deg
-Kailh keyswitch Hotswap Socket with ISOEnter 180deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout ISOEnter 180deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_ISOEnter_270deg
-Kailh keyswitch Hotswap Socket with ISOEnter 270deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout ISOEnter 270deg
-0
-2
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated
-Kailh keyswitch Hotswap Socket plated holes
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_1.00u
-Kailh keyswitch Hotswap Socket plated holes with 1.00u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.00u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_1.25u
-Kailh keyswitch Hotswap Socket plated holes with 1.25u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.25u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_1.25u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 1.25u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.25u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_1.50u
-Kailh keyswitch Hotswap Socket plated holes with 1.50u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.50u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_1.50u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 1.50u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.50u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_1.75u
-Kailh keyswitch Hotswap Socket plated holes with 1.75u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.75u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_1.75u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 1.75u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.75u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_2.00u
-Kailh keyswitch Hotswap Socket plated holes with 2.00u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.00u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_2.00u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 2.00u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.00u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_2.25u
-Kailh keyswitch Hotswap Socket plated holes with 2.25u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.25u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_2.25u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 2.25u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.25u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_2.50u
-Kailh keyswitch Hotswap Socket plated holes with 2.50u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.50u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_2.50u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 2.50u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.50u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_2.75u
-Kailh keyswitch Hotswap Socket plated holes with 2.75u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.75u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_2.75u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 2.75u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.75u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_3.00u
-Kailh keyswitch Hotswap Socket plated holes with 3.00u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 3.00u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_3.00u_90deg
-Kailh keyswitch Hotswap Socket plated holes with 3.00u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 3.00u 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_4.00u
-Kailh keyswitch Hotswap Socket plated holes with 4.00u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 4.00u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_4.50u
-Kailh keyswitch Hotswap Socket plated holes with 4.50u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 4.50u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_5.50u
-Kailh keyswitch Hotswap Socket plated holes with 5.50u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 5.50u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_6.00u
-Kailh keyswitch Hotswap Socket plated holes with 6.00u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 6.00u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_6.00u_Offset
-Kailh keyswitch Hotswap Socket plated holes with 6.00u Offset keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 6.00u Offset
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_6.25u
-Kailh keyswitch Hotswap Socket plated holes with 6.25u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 6.25u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_6.50u
-Kailh keyswitch Hotswap Socket plated holes with 6.50u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 6.50u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_7.00u
-Kailh keyswitch Hotswap Socket plated holes with 7.00u keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 7.00u
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_ISOEnter
-Kailh keyswitch Hotswap Socket plated holes with ISOEnter keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout ISOEnter
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_ISOEnter_90deg
-Kailh keyswitch Hotswap Socket plated holes with ISOEnter 90deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout ISOEnter 90deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_ISOEnter_180deg
-Kailh keyswitch Hotswap Socket plated holes with ISOEnter 180deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout ISOEnter 180deg
-0
-6
-2
-Keyswitch
-SW_Hotswap_Kailh_MX_plated_ISOEnter_270deg
-Kailh keyswitch Hotswap Socket plated holes with ISOEnter 270deg keycap
-Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout ISOEnter 270deg
-0
-6
-2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -57648,6 +57256,13 @@ LED_SMD
 LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
 https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
 LED RGB NeoPixel
+0
+4
+4
+LED_SMD
+LED_WS2812B-2020_PLCC4_2.0x2.0mm
+Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+LED RGB NeoPixel Nano 2020
 0
 4
 4
@@ -61005,6 +60620,13 @@ refective opto couple photo coupler
 4
 4
 OptoDevice
+Everlight_ITR9608-F
+Fork-type photointerrupter (https://everlighteurope.com/index.php?controller=attachment&id_attachment=5389)
+Photointerrupter infrared LED
+0
+4
+4
+OptoDevice
 Finder_34.81
 Relay SPST, Finder Type 34.81 (opto relays/coupler), vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf
 Relay SPST Finder
@@ -61124,6 +60746,13 @@ Laser Diode TO56
 3
 3
 OptoDevice
+Lightpipe_Bivar_RLP1-400-650
+1-way, 2.8mm lightpipe, 10mm lens output height, 17mm protrusion, https://www.bivar.com/parts_content/Datasheets/RLP1-XXX-XXX.pdf
+planar light pipe 1 way 3mm 
+0
+0
+0
+OptoDevice
 Lightpipe_Dialight_515-1064F
 https://www.dialightsignalsandcomponents.com/515-optopipe-light-pipe-trilevel-2-5mm-rnd-flat-diff-lens-press-fit/#tab-resources
 lightpipe triple tower right angle 3mm
@@ -61208,6 +60837,20 @@ refective opto couple photo coupler
 4
 4
 OptoDevice
+Osram_BP104-SMD
+PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.2x2.2mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5989350/BP%20104%20FAS_EN.pdf
+PhotoDiode plastic SMD DIL
+0
+6
+2
+OptoDevice
+Osram_BPW34S-SMD
+PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.65x2.65mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5488319/BPW%2034%20S_EN.pdf
+PhotoDiode plastic SMD DIL
+0
+6
+2
+OptoDevice
 Osram_BPW82
 PhotoDiode, BPW82, RM2.54
 PhotoDiode BPW82 RM2.54
@@ -61250,11 +60893,18 @@ PhotoDiode SFH225 RM2.54
 2
 2
 OptoDevice
-Osram_SMD-DIL2_4.5x4.0mm
-PhotoDiode, plastic SMD DIL, 4.5x4mm²
+Osram_SFH2430
+PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.65x2.65mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5467144/SFH%202430_EN.pdf
 PhotoDiode plastic SMD DIL
 0
+6
 2
+OptoDevice
+Osram_SFH2440
+PhotoDiode, plastic SMD DIL, 4.5x4mm, area: 2.65x2.65mm, https://dammedia.osram.info/media/resource/hires/osram-dam-5467146/SFH%202440_EN.pdf
+PhotoDiode plastic SMD DIL
+0
+6
 2
 OptoDevice
 Osram_SMD-SmartDIL
@@ -63210,8 +62860,8 @@ LFCSP-WD NoLead
 24
 11
 Package_CSP
-Maxim_WLCSP-32_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
-WLCSP-32, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
+Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
+WLCSP-35, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
 CSP 35 0.4
 0
 35
@@ -72079,6 +71729,13 @@ SSOP 0.65 exposed pad
 18
 15
 Package_SO
+TSSOP-14_4.4x3.6mm_P0.4mm
+TSSOP, 14 Pin (JEDEC MO-194 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+14
+14
+Package_SO
 TSSOP-14_4.4x5mm_P0.65mm
 TSSOP, 14 Pin (JEDEC MO-153 Var AB-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
@@ -72107,12 +71764,26 @@ TSSOP SO
 26
 17
 Package_SO
+TSSOP-16_4.4x3.6mm_P0.4mm
+TSSOP, 16 Pin (JEDEC MO-194 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+16
+16
+Package_SO
 TSSOP-16_4.4x5mm_P0.65mm
 TSSOP, 16 Pin (JEDEC MO-153 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
 0
 16
 16
+Package_SO
+TSSOP-20_4.4x5mm_P0.4mm
+TSSOP, 20 Pin (JEDEC MO-194 Var AC https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+20
+20
 Package_SO
 TSSOP-20_4.4x5mm_P0.5mm
 TSSOP, 20 Pin (JEDEC MO-153 Var BA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -72415,6 +72086,13 @@ TSSOP SO
 52
 52
 Package_SO
+TSSOP-56_4.4x11.3mm_P0.4mm
+TSSOP, 56 Pin (JEDEC MO-194 Var AF https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+56
+56
+Package_SO
 TSSOP-56_6.1x12.5mm_P0.4mm
 TSSOP, 56 Pin (JEDEC MO-153 Var FD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
@@ -72484,6 +72162,13 @@ TSSOP SO
 0
 80
 80
+Package_SO
+TSSOP-100_6.1x20.8mm_P0.4mm
+TSSOP, 100 Pin (JEDEC MO-194 Var BB https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+100
+100
 Package_SO
 Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm
 Texas Instruments HSOP 9, 1.27mm pitch, 3.9x4.9mm body, exposed pad, DDA0008J (http://www.ti.com/lit/ds/symlink/tps5430.pdf)
@@ -77172,7 +76857,7 @@ ESP32-WROOM-32
 Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
 Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
 0
-39
+60
 39
 RF_Module
 ESP32-WROOM-32U
@@ -79540,6 +79225,13 @@ co2 gas sensor pwm modbus
 0
 9
 9
+Sensor
+Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm
+Sensirion SCD4x QFN, 20 Pin (https://sensirion.com/media/documents/C4B87CE6/627C2DCD/CD_DS_SCD40_SCD41_Datasheet_D1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Sensirion QFN NoLead
+0
+25
+21
 Sensor
 Winson_GM-402B_5x5mm_P1.27mm
 Winson GM-402B, 8 Pin (https://www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf)
@@ -85211,6 +84903,13 @@ Transformer Ethernet Single Center-Tap
 16
 16
 Transformer_SMD
+Transformer_Ethernet_Bourns_PT61020EL
+10/100/1000 Base-T Transformer Module, PT61020EL (https://www.bourns.com/pdfs/PT61020.pdf)
+Gigabit PoE Ethernet Transformer Single
+0
+24
+24
+Transformer_SMD
 Transformer_Ethernet_HALO_TG111-MSC13
 Transformer Ethernet SMD, https://www.haloelectronics.com/pdf/discrete-genesus.pdf
 Transformer Ethernet SMD
@@ -85245,6 +84944,13 @@ Ethernet Transformer
 0
 16
 16
+Transformer_SMD
+Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm
+YDS 30F-51NL SO, 24 Pin (https://datasheet.lcsc.com/lcsc/1811051610_Shanghai-YDS-Tech-30F-51NL_C123168.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+YDS SO Transformer_SMD
+0
+24
+24
 Transformer_SMD
 Transformer_MACOM_SM-22
 https://cdn.macom.com/datasheets/ETC1-1-13.pdf
@@ -85735,6 +85441,83 @@ transformer flyback
 0
 10
 10
+Transformer_THT
+Transformer_Wuerth_760871131
+Transformer, horizontal core with bobbin, 14 pin, 2.49 mm pitch, 20 mm row spacing, 25x22.2x16mm https://www.we-online.com/catalog/datasheet/760871131.pdf
+transformer flyback
+0
+14
+14
+Transistor_Power_Module
+Infineon_AG-ECONO2
+28-lead TH, EconoPACK 2, same as Littelfuse_Package_H_XN2MM, https://www.infineon.com/dgdl/Infineon-FS75R07N2E4-DS-v02_00-en_de.pdf?fileId=db3a30432f5008fe012f52f916333979
+igbt diode module
+0
+28
+28
+Transistor_Power_Module
+Infineon_EasyPIM-1B
+35-lead TH, EasyPIM 1B, https://www.infineon.com/dgdl/Infineon-FP10R06W1E3-DS-v02_01-en_de.pdf?fileId=db3a304412b407950112b43312285a63
+brifge rectifier igbt diode module
+0
+23
+23
+Transistor_Power_Module
+Infineon_EasyPIM-2B
+35-lead TH, EasyPIM 2B, same as ST_ACEPACK-2-CIB, https://www.infineon.com/dgdl/Infineon-FP50R06W2E3-DS-v02_02-EN.pdf?fileId=db3a30431b3e89eb011b455c99987d24
+brifge rectifier igbt diode module
+0
+35
+23
+Transistor_Power_Module
+Littelfuse_Package_H_XBN2MM
+24-lead TH, Package H, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1215h_xbn2mm_datasheet.pdf.pdf
+brifge rectifier igbt diode module
+0
+24
+24
+Transistor_Power_Module
+Littelfuse_Package_H_XN2MM
+28-lead TH, Package H, same as Infineon_AG-ECONO2, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1225h_xn2mm_datasheet.pdf.pdf
+igbt diode module
+0
+28
+28
+Transistor_Power_Module
+Littelfuse_Package_W_XBN2MM
+24-lead TH, Package W, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1250w_xbn2mm_datasheet.pdf.pdf
+brifge rectifier igbt diode module
+0
+35
+24
+Transistor_Power_Module
+Littelfuse_Package_W_XN2MM
+35-lead TH, Package W, https://www.littelfuse.com/~/media/electronics/datasheets/power_semiconductors/littelfuse_power_semiconductor_igbt_module_mg1275w_xn2mm_datasheet.pdf.pdf
+igbt diode module
+0
+35
+35
+Transistor_Power_Module
+ST_ACEPACK-2-CIB
+35-lead TH, ACEPACK 2 CIB, same as Infineon_EasyPIM-2B, https://www.st.com/resource/en/datasheet/a2c25s12m3.pdf
+brifge rectifier igbt diode module
+0
+35
+23
+Transistor_Power_Module
+ST_ACEPACK-2-CIB_PressFIT
+35-lead TH, ACEPACK 2 CIB, PressFIT, https://www.st.com/resource/en/datasheet/a2c50s65m2-f.pdf
+brifge rectifier igbt diode module
+0
+35
+23
+Transistor_Power_Module
+ST_SDIP-25L
+25-lead TH, SDIP-25L, https://www.st.com/resource/en/datasheet/stgips20k60.pdf
+igbt diode module
+0
+25
+25
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -86505,13 +86288,13 @@ varistor SIOV
 0
 2
 2
-WeAct-RP2040-Pico
-WeAct-RP2040-Pico
-
-
+Varistor
+RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm
+Varistor, V25S440P, https://www.littelfuse.com/media?resourcetype=datasheets&itemid=b410c42c-51d1-460e-b1d9-d105d93c9679&filename=littelfuse-varistor-ultramov25s-datasheet
+varistor
 0
-44
-44
+2
+2
 button
 SW_TS-1187A-B-A-B
 
@@ -86533,566 +86316,6 @@ BF994S
 0
 4
 4
-kicad-w25q-library
-W25Q_SOIC-8
-
-
-0
-8
-8
-kicad-w25q-library
-W25Q_USON-8
-
-
-0
-10
-9
-kicad-w25q-library
-W25Q_WSON-8
-
-
-0
-9
-9
-kicad-w25q-library
-W25Q_XSON-8
-
-
-0
-9
-9
-local-hybrid
-SW_Hotswap_Hybrid
-Kailh keyswitch Hybrid Hotswap Socket
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_1.00u
-Kailh keyswitch Hybrid Hotswap Socket with 1.00u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 1.00u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_1.25u
-Kailh keyswitch Hybrid Hotswap Socket with 1.25u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 1.25u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_1.25u_90deg
-Kailh keyswitch Hybrid Hotswap Socket with 1.25u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 1.25u 90deg
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_1.50u
-Kailh keyswitch Hybrid Hotswap Socket with 1.50u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 1.50u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_1.50u_90deg
-Kailh keyswitch Hybrid Hotswap Socket with 1.50u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 1.50u 90deg
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_1.75u
-Kailh keyswitch Hybrid Hotswap Socket with 1.75u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 1.75u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_1.75u_90deg
-Kailh keyswitch Hybrid Hotswap Socket with 1.75u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 1.75u 90deg
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_2.00u
-Kailh keyswitch Hybrid Hotswap Socket with 2.00u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 2.00u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_2.00u_90deg
-Kailh keyswitch Hybrid Hotswap Socket with 2.00u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 2.00u 90deg
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_2.25u
-Kailh keyswitch Hybrid Hotswap Socket with 2.25u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 2.25u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_2.25u_90deg
-Kailh keyswitch Hybrid Hotswap Socket with 2.25u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 2.25u 90deg
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_2.50u
-Kailh keyswitch Hybrid Hotswap Socket with 2.50u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 2.50u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_2.50u_90deg
-Kailh keyswitch Hybrid Hotswap Socket with 2.50u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 2.50u 90deg
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_2.75u
-Kailh keyswitch Hybrid Hotswap Socket with 2.75u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 2.75u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_2.75u_90deg
-Kailh keyswitch Hybrid Hotswap Socket with 2.75u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 2.75u 90deg
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_3.00u
-Kailh keyswitch Hybrid Hotswap Socket with 3.00u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 3.00u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_3.00u_90deg
-Kailh keyswitch Hybrid Hotswap Socket with 3.00u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 3.00u 90deg
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_4.00u
-Kailh keyswitch Hybrid Hotswap Socket with 4.00u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 4.00u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_4.50u
-Kailh keyswitch Hybrid Hotswap Socket with 4.50u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 4.50u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_5.50u
-Kailh keyswitch Hybrid Hotswap Socket with 5.50u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 5.50u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_6.00u
-Kailh keyswitch Hybrid Hotswap Socket with 6.00u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 6.00u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_6.00u_Offset
-Kailh keyswitch Hybrid Hotswap Socket with 6.00u Offset keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 6.00u Offset
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_6.25u
-Kailh keyswitch Hybrid Hotswap Socket with 6.25u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 6.25u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_6.50u
-Kailh keyswitch Hybrid Hotswap Socket with 6.50u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 6.50u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_7.00u
-Kailh keyswitch Hybrid Hotswap Socket with 7.00u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout 7.00u
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_ISOEnter
-Kailh keyswitch Hybrid Hotswap Socket with ISOEnter keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout ISOEnter
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_ISOEnter_90deg
-Kailh keyswitch Hybrid Hotswap Socket with ISOEnter 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout ISOEnter 90deg
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_ISOEnter_180deg
-Kailh keyswitch Hybrid Hotswap Socket with ISOEnter 180deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout ISOEnter 180deg
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_ISOEnter_270deg
-Kailh keyswitch Hybrid Hotswap Socket with ISOEnter 270deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket Cutout ISOEnter 270deg
-0
-5
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated
-Kailh keyswitch Hybrid Hotswap Socket plated holes
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_1.00u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 1.00u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 1.00u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_1.25u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 1.25u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 1.25u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_1.25u_90deg
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 1.25u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 1.25u 90deg
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_1.50u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 1.50u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 1.50u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_1.50u_90deg
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 1.50u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 1.50u 90deg
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_1.75u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 1.75u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 1.75u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_1.75u_90deg
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 1.75u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 1.75u 90deg
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_2.00u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 2.00u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 2.00u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_2.00u_90deg
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 2.00u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 2.00u 90deg
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_2.25u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 2.25u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 2.25u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_2.25u_90deg
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 2.25u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 2.25u 90deg
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_2.50u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 2.50u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 2.50u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_2.50u_90deg
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 2.50u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 2.50u 90deg
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_2.75u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 2.75u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 2.75u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_2.75u_90deg
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 2.75u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 2.75u 90deg
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_3.00u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 3.00u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 3.00u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_3.00u_90deg
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 3.00u 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 3.00u 90deg
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_4.00u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 4.00u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 4.00u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_4.50u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 4.50u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 4.50u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_5.50u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 5.50u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 5.50u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_6.00u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 6.00u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 6.00u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_6.00u_Offset
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 6.00u Offset keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 6.00u Offset
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_6.25u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 6.25u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 6.25u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_6.50u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 6.50u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 6.50u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_7.00u
-Kailh keyswitch Hybrid Hotswap Socket plated holes with 7.00u keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout 7.00u
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_ISOEnter
-Kailh keyswitch Hybrid Hotswap Socket plated holes with ISOEnter keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout ISOEnter
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_ISOEnter_90deg
-Kailh keyswitch Hybrid Hotswap Socket plated holes with ISOEnter 90deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout ISOEnter 90deg
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_ISOEnter_180deg
-Kailh keyswitch Hybrid Hotswap Socket plated holes with ISOEnter 180deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout ISOEnter 180deg
-0
-17
-2
-local-hybrid
-SW_Hotswap_Hybrid_plated_ISOEnter_270deg
-Kailh keyswitch Hybrid Hotswap Socket plated holes with ISOEnter 270deg keycap
-Kailh Keyboard Keyswitch Switch Hybrid Hotswap Socket plated Cutout ISOEnter 270deg
-0
-17
-2
-marbastlib-various
-CON_TC2030_outlined
-Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
-tag connect programming header pogo pins
-0
-6
-6
-marbastlib-various
-LED_6028R
-rear-mount SMD 6028 RGB LED
-LED RGB 6028 rear mount reverse
-0
-4
-4
-marbastlib-various
-LED_WS2812_2020
-2020 SMD adressable RGB LED with integrated controller
-LED RGB NeoPixel
-0
-4
-4
-marbastlib-various
-ProMicro
-Footprint for Arduino Pro Micro and compatible boards
-
-0
-24
-24
-marbastlib-various
-ProMicroReversible
-Reversible footprint for Arduino Pro Micro and compatible boards
-
-0
-48
-24
-marbastlib-various
-SOT-23-6-routable
-SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOT TO_SOT_SMD
-0
-6
-6
-marbastlib-various
-SW_ESP3020
-ECE ESP3020 SMD slide switch
-slide switch smd ece
-0
-3
-3
-marbastlib-various
-SW_kailh_big_1u
-Footprint for Kailh "Big Switch Series" style switches
-
-0
-2
-2
-marbastlib-various
-SplitkbTentingPuck
-https://splitkb.com/products/tenting-puck
-split kb tenting puck mechanical mounting
-0
-5
-1
-marbastlib-various
-USB_C_Receptacle_HRO_TYPE-C-31-M-14
-USB Type-C receptacle for USB 2.0 and PD
-usb usb-c 2.0 pd
-0
-20
-17
-marbastlib-various
-mousebites_1mm
-
-
-0
-0
-0
-marbastlib-various
-mousebites_2.5mm
-
-
-0
-0
-0
-marbastlib-various
-mousebites_2mm
-
-
-0
-0
-0
-marbastlib-various
-nRF52840_holyiot_18010
-Module containing a nRF52840 and most passives and antenna
-holyiot 18010 bluetooth low energy 
-0
-55
-55
-marbastlib-various
-nRF52840_holyiot_18010_HS_all
-Module containing a nRF52840 and most passives and antenna, with a cutout for hand soldering of the bottom IO
-holyiot 18010 bluetooth low energy 
-0
-55
-55
-marbastlib-various
-nRF52840_holyiot_18010_HS_simple
-Module containing a nRF52840 and most passives and antenna, with only hand solderable pads
-holyiot 18010 bluetooth low energy 
-0
-37
-37
 mx-choc
 MX-Alps-Choc-1U
 
@@ -87100,27 +86323,6 @@ MX-Alps-Choc-1U
 0
 8
 4
-openinput
-PXI-DIP-16
-Optical Gaming Navigation Chip
-Optical Sensor Gaming Navigation Chip Tracking
-0
-16
-16
-openinput
-RotaryEncoder_Horizontal
-Rotary Encoder
-Rotary Encoder Gaming Mouse
-0
-5
-4
-openinput
-SW_Micro_Switch
-Micro Switch
-Ultra Subminiature Basic Micro Switch D2F
-0
-3
-3
 qorvo
 DWM3000
 
