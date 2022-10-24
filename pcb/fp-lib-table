@@ -6,4 +6,5 @@
   (lib (name "qorvo")(type "KiCad")(uri "${KIPRJMOD}/lib/DW3000")(options "")(descr ""))
   (lib (name "mx-choc")(type "KiCad")(uri "${KIPRJMOD}/lib/mx-choc")(options "")(descr ""))
   (lib (name "local-hybrid")(type "KiCad")(uri "/home/mriise/KiProjects/keyswitch-kicad-library/output/Switch_Keyboard_Hybrid_Hotswap_Kailh.pretty")(options "")(descr ""))
+  (lib (name "button")(type "KiCad")(uri "${KIPRJMOD}/lib/funbuttons")(options "")(descr ""))
 )

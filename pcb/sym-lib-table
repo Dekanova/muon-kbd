@@ -4,4 +4,5 @@
   (lib (name "rp2040")(type "KiCad")(uri "${KIPRJMOD}/lib/rp2040/MCU_RaspberryPi.kicad_sym")(options "")(descr ""))
   (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/lib/DW3000/New_Library.kicad_sym")(options "")(descr ""))
   (lib (name "Qorvo")(type "KiCad")(uri "${KIPRJMOD}/lib/DW3000/Qorvo.kicad_sym")(options "")(descr ""))
+  (lib (name "button")(type "Legacy")(uri "${KIPRJMOD}/lib/funbuttons/TS-1187A-B-A-B.lib")(options "")(descr ""))
 )
