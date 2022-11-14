@@ -3614,9 +3614,9 @@
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Debug Pins" (id 1) (at 30.48 111.76 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+      (effects (font (size 1.27 1.27) bold) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x05_P2.00mm_Vertical" (id 2) (at 19.05 120.65 0)
+    (property "Footprint" "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical" (id 2) (at 19.05 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 19.05 120.65 0)
@@ -5427,7 +5427,7 @@
       (reference "FB1") (unit 1) (value "~") (footprint "Inductor_SMD:L_0402_1005Metric")
     )
     (path "/0ff39221-c92f-4e4d-a18b-e53c9e597d78"
-      (reference "J1") (unit 1) (value "Debug Pins") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x05_P2.00mm_Vertical")
+      (reference "J1") (unit 1) (value "Debug Pins") (footprint "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical")
     )
     (path "/181a118b-aef0-401e-b0d6-eeb72ac7cbc9"
       (reference "J2") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
