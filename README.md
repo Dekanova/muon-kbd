@@ -8,6 +8,8 @@ ROM flash is pretty big and should be able to fit whatever you want on it.
 
 Feel free to make a PR if you get other firmware working on this board!
 
+### Features
+
 - RP2040 (easy firmware changes)
 - hybrid MX/low profile choc hotswap socket
 - rgb keyglow & underglow
