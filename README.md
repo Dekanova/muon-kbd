@@ -22,10 +22,9 @@ TODO: once hybrid keyswitch gen is merged, move from local reference
 - Kicad 6.0
 - openinput library from kicad content&lib manager
 
-## Images (last updated: v0.4)
-![pcb](media/v0-4/pcb.jpg?raw=true "PCB")
-![front](media/v0-4/front.jpg?raw=true "Front")
-![back](media/v0-4/back.jpg?raw=true "Back")
+## Images (last updated: v0.6)
+![front](media/v0-6/front.png?raw=true "Front")
+![back](media/v0-6/back.png?raw=true "Back")
 
 A huge thanks to openinput for their generic [KiCad lib](https://github.com/openinput-fw/openinput-kicad-library).
 
