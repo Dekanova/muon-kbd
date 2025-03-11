@@ -1,6 +1,6 @@
 # A smol and simple osu keypad
 
-This is the Muon PCB (currently in development).
+This is the Muon PCB.
 
 ## Details
 Firmware for this board can be found here https://github.com/Dekanova/muon-firmware.
